@@ -5,7 +5,8 @@ Mark file as "viewed" on GitHub PR UI when hovering and pressing 'Escape' key
 [Original discussion](https://github.com/orgs/community/discussions/10197)
 
 Screencast by `dvdvdmt`:
-<img width="614" height="370" alt="image" src="https://github.com/user-attachments/assets/94f608e8-b72a-442a-960c-8880d0e06da2" />
+
+![225512737-f706088e-df8b-4e0d-aeb4-82af4f393692](https://github.com/user-attachments/assets/4045c00f-125f-406e-994c-c89e619b08a6)
 
 ## Instructions
 
